@@ -12,6 +12,6 @@ The project pipeline can be briefly summarized in the following steps:
 
 **Train/Test Split:** Now we are familiar with the train/test split, which we can perform in order to check the performance of our models with unseen data. We need to choose an appropriate k value so that the minority class is correctly represented in the test folds.
 
-**Model-Building:** This is the final step at which we can try different models and fine-tune their hyperparameters until we get the desired level of performance on the given dataset. We should try and see if we get a better model by the various sampling techniques.
+**Model-Building:** This is the final step at which we can try different models and fine-tune their hyperparameters until we get the desired level of performance on the given dataset. In this project we build Logestic Regression, Decision Tree Classifier and Random Forest Classifier models.
 
 **Model Evaluation:** We need to evaluate the models using appropriate evaluation metrics. Note that since the data is imbalanced it is is more important to identify which are fraudulent transactions accurately than the non-fraudulent. We need to choose an appropriate evaluation metric which reflects this business goal.

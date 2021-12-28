@@ -1,8 +1,7 @@
 # Credit Card Fraud Detection
-Now a day the usage of credit cards has dramatically increased. As credit card becomes the most popular mode of payment for both online as well as regular purchase, cases of fraud associated with it are also rising.The problem statement chosen for this project is to predict credit card fraud transactions with the help of machine learning models.
+Now a days the usage of credit cards has dramatically increased. As credit card becomes the most popular mode of payment for both online as well as regular purchase, cases of fraud associated with it are also rising.The problem statement chosen for this project is to predict credit card fraud transactions with the help of machine learning models.
 
 In this project, we will analyse customer-level data. The dataset is taken from the Kaggle Website containing 12,96,675 transactions of both legitimate and fraud transactions from the duration 1st January 2019 to 30th June 2020. It covers credit cards of 1000 customers doing transactions with a pool of 800 merchants.
-
 # Project Pipeline
 The project pipeline can be briefly summarized in the following steps:
 

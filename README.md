@@ -4,7 +4,7 @@ The problem statement chosen for this project is to predict credit card fraud tr
 
 In this project, we will analyse customer-level data. The dataset is taken from the Kaggle Website containing 12,96,675 transactions of both legitimate and fraud transactions from the duration 1st January 2019 to 30th June 2020. It covers credit cards of 1000 customers doing transactions with a pool of 800 merchants.
 # Project Pipeline
-The project pipeline can be briefly summarized in the following four steps:
+The project pipeline can be briefly summarized in the following steps:
 
 **Data Understanding:** Here, we need to load the data and understand the features present in it. This would help us choose the features that we will need for your final model.
 

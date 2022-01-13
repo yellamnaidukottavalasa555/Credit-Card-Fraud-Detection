@@ -17,7 +17,7 @@ The project pipeline can be briefly summarized in the following steps:
 
 2.Decision Tree Classifier
 
-3.Random Forest Classifier models
+3.Random Forest Classifier
 
 
 **Model Evaluation:** We need to evaluate the models using appropriate evaluation metrics. Note that since the data is imbalanced it is is more important to identify which are fraudulent transactions accurately than the non-fraudulent. We need to choose an appropriate evaluation metric which reflects this business goal.

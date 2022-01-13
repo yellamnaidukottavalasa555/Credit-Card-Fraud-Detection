@@ -14,7 +14,9 @@ The project pipeline can be briefly summarized in the following steps:
 **Model-Building:** This is the final step at which we can try different models and fine-tune their hyperparameters until we get the desired level of performance on the given dataset. In this project we build 
 
 1.Logestic Regression
+
 2.Decision Tree Classifier
+
 3.Random Forest Classifier models
 
 
